@@ -1,0 +1,12 @@
+target/
+project/target/
+.bsp/
+.metals/
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+output/
+checkpoint/
+logs/
